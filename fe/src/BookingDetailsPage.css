@@ -1,0 +1,65 @@
+.booking-details {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .loading {
+    font-size: 18px;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h2, h3 {
+    color: #333;
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .flight-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .flight-table {
+    width: 100%;
+    border-spacing: 0;
+  }
+  
+  .flight-table td {
+    padding: 5px 10px;
+  }
+  
+  .waiting-time {
+    color: #007bff;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .passenger-list {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+  }
+  
+  .passenger-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .passenger-item:last-child {
+    border-bottom: none;
+  }
+  

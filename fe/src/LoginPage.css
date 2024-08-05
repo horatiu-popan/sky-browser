@@ -1,0 +1,51 @@
+/* src/LoginPage.css */
+.login-page {
+    max-width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .login-page h2 {
+    text-align: center;
+  }
+  
+  .login-page form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login-page form div {
+    margin-bottom: 15px;
+  }
+  
+  .login-page label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .login-page input {
+    padding: 8px;
+    font-size: 1em;
+  }
+  
+  .login-page .error {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  .login-page button {
+    padding: 10px;
+    font-size: 1em;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .login-page button:hover {
+    background-color: #0056b3;
+  }
+  
